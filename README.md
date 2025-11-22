@@ -23,7 +23,4 @@ Exploring best practices for API performance, backend architecture, and distribu
 ### 🤝 Let’s Connect
 I’m open to freelance and collaboration opportunities related to backend and web development.
 
----
 
-> ⚙️ All repositories on this profile are for backend and web development demonstration only.
-> No automation, scraping, or data-mining content is included.
